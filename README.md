@@ -108,7 +108,7 @@ BoxDisplacement is the [Manhattan Distance](https://en.wikipedia.org/wiki/Manhat
 As long as at least one box is on a target the RoomScore is always 0.
 <div style="padding:10%">
   <p align="center">
-   <img src="https://latex.codecogs.com/svg.latex?\Large&space;RoomScore&space;=&space;BoxSwaps&space;\times&space;\sum_{i&space;\in&space;Boxes}_{BoxDisplacement_{i}}" title="Room Score" />
+   <img src="https://latex.codecogs.com/png.latex?\Large RoomScore = BoxSwaps \times \sum_{i \in Boxes} {BoxDisplacement_{i}}" title="Room Score" />
   </p>
 </div>
 
